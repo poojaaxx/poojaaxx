@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0e27,50:0077b6,100:00d4ff&text=Poojaa&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Developer%20%7C%20Full-Stack%20Architect%20%7C%20Data%20Engineer&descSize=18&descAlignY=60" alt="Poojaa - Aspiring Software Developer | Full-Stack Architect | Data Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0e27,50:0077b6,100:00d4ff&text=Poojaa%20D%20V&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Developer%20%7C%20Full-Stack%20Architect%20%7C%20Data%20Engineer&descSize=18&descAlignY=60" alt="Poojaa D V - Aspiring Software Developer | Full-Stack Architect | Data Engineer" />
 
 <a href="https://github.com/poojaaxx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Aspiring+Software+Developer;%E2%9A%A1+Building+Full-Stack+Applications;%F0%9F%93%8A+Engineering+Reliable+Data+Systems;%F0%9F%A4%96+Exploring+AI+%26+Modern+Software+Engineering;%F0%9F%92%A1+Turning+Ideas+Into+Production-Ready+Systems" alt="Typing animation" />
