@@ -1,0 +1,39 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download streak stats
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          curl --fail --silent --show-error --location --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com?user=${USERNAME}&background=0a0e27&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ff6b35&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=00d4ff&hide_border=false" \
+            -o github-streak-stats.svg
+          grep -q "<svg" github-streak-stats.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-streak-stats.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update GitHub streak stats"
+            git push
+          fi
