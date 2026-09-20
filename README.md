@@ -136,20 +136,6 @@
 
 ---
 
-## 🎯 Mission
-
-> Build reliable software, design scalable full-stack and data systems, explore emerging technologies, contribute to meaningful projects, and continuously grow as a software engineer.
-
----
-
-## 💬 Random Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
-</div>
-
----
-
 ## ⚡ Open to Internships, Collaborations & Open Source
 
 I'm actively looking for internship opportunities and happy to collaborate on meaningful projects and open source.
