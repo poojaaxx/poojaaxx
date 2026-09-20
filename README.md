@@ -10,6 +10,7 @@
 
 <a href="https://github.com/poojaaxx"><img src="https://img.shields.io/badge/GitHub-poojaaxx-0a0e27?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" /></a>
 <a href="mailto:poojaavijayakumar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://poojaa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-poojaa--portfolio.vercel.app-00FF88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=poojaaxx&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
 <br/>
 <img src="https://img.shields.io/badge/Open%20to-Internships-00FF88?style=for-the-badge&labelColor=0a0e27" alt="Open to Internships" />
@@ -143,6 +144,7 @@ I'm actively looking for internship opportunities and happy to collaborate on me
 <div align="center">
   <a href="mailto:poojaavijayakumar@gmail.com"><img src="https://img.shields.io/badge/Email-poojaavijayakumar%40gmail.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/poojaaxx"><img src="https://img.shields.io/badge/GitHub-poojaaxx-0a0e27?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub" /></a>
+  <a href="https://poojaa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-poojaa--portfolio.vercel.app-00FF88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" alt="Portfolio" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0a0e27,50:0077b6,100:00d4ff&section=footer" alt="Footer" />
