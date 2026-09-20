@@ -24,7 +24,7 @@
 
 <div align="center">
 
-**Hi, I'm Poojaa 👋**
+**Hi, I'm Poojaa D V 👋**
 
 <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-00D4FF?style=flat-square&labelColor=0a0e27" alt="Aspiring Software Developer" />
 <img src="https://img.shields.io/badge/Full--Stack-Architect-FF6B35?style=flat-square&labelColor=0a0e27" alt="Full-Stack Architect" />
