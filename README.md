@@ -47,6 +47,14 @@
 
 ---
 
+## 🖥️ Terminal Intro
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=1500&color=00FF88&background=0A0E27&width=720&height=270&multiline=true&repeat=true&lines=%24+whoami;Poojaa+D+V;%24+role;Aspiring+Software+Developer;Full-Stack+Architect;Data+Engineer;%24+location;India+%F0%9F%87%AE%F0%9F%87%B3;%24+current_focus;Building+scalable+software%2C+data+systems+and+AI-powered+applications" alt="Terminal: whoami Poojaa D V; role Aspiring Software Developer, Full-Stack Architect, Data Engineer; location India; current focus scalable software, data systems and AI-powered applications" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -101,6 +109,21 @@
 
 <div align="center">
   <img src="./top-languages.svg" alt="Most used languages" />
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🌌 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
 </div>
 
 ---
