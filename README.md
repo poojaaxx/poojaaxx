@@ -22,34 +22,28 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Developer:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Poojaa"
+**Hi, I'm Poojaa 👋**
 
-        self.roles = [
-            "Aspiring Software Developer",
-            "Full-Stack Architect",
-            "Data Engineer"
-        ]
+<img src="https://img.shields.io/badge/Aspiring-Software%20Developer-00D4FF?style=flat-square&labelColor=0a0e27" alt="Aspiring Software Developer" />
+<img src="https://img.shields.io/badge/Full--Stack-Architect-FF6B35?style=flat-square&labelColor=0a0e27" alt="Full-Stack Architect" />
+<img src="https://img.shields.io/badge/Data-Engineer-00FF88?style=flat-square&labelColor=0a0e27" alt="Data Engineer" />
 
-        self.location = "India 🇮🇳"
+</div>
 
-        self.education = (
-            "B.E. Computer Science and Engineering"
-        )
+- 📍 **Location:** India 🇮🇳
+- 🎓 **Education:** B.E. Computer Science and Engineering
+- 💼 **Roles:** Aspiring Software Developer · Full-Stack Architect · Data Engineer
 
-    def current_focus(self):
-        return [
-            "🚀 Building production-ready software",
-            "🌐 Developing scalable full-stack applications",
-            "📊 Designing reliable data systems",
-            "🤖 Exploring AI-powered software workflows",
-            "🌱 Continuously learning modern technologies",
-            "👯 Open to internships and collaborations"
-        ]
-```
+**Current focus**
+
+- 🚀 Building production-ready software
+- 🌐 Developing scalable full-stack applications
+- 📊 Designing reliable data systems
+- 🤖 Exploring AI-powered software workflows
+- 🌱 Continuously learning modern technologies
+- 👯 Open to internships and collaborations
 
 ---
 
